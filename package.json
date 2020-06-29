@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-frontend-ci-cd-test",
+  "version": "1.0.0",
+  "description": "Test NextJS CI CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokula-krishna-dev/nodejs-frontend-ci-cd-test.git"
+  },
+  "keywords": [
+    "CI",
+    "CD",
+    "NodeJS",
+    "NextJS",
+    "tutorial"
+  ],
+  "author": "Gokula Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokula-krishna-dev/nodejs-frontend-ci-cd-test/issues"
+  },
+  "homepage": "https://github.com/gokula-krishna-dev/nodejs-frontend-ci-cd-test#readme"
+}
